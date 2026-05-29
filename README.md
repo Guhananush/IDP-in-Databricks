@@ -7,6 +7,6 @@ The workflow includes data ingestion, transformation, validation, and analytics 
 Key technologies used in this project include:
 - Databricks
 - Delta Lake
-- GitHub Integration for Version Control
+- GitHub Integration for Version Control         
 
 The project is designed to support both batch and streaming data processing while maintaining scalability, reliability, and performance for real-world data engineering applications.
